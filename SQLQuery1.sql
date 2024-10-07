@@ -8,4 +8,6 @@ create table student1
  go
  Insert into student1(ID,FirstName)
  Values(1,'anjali')
+ Insert into student1(ID,FirstName)
+ Values(2,'xyz')
  select * from student1;
